@@ -1,4 +1,4 @@
-Create a Token
+## Create a Token
 
 The solidity program "create a token" will demonstrate the basic of the topics like Data-Types, Mapping, Function Demonstration and conditional statement.
 
